@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Use rsync to copy stuff from other server
 # $1 - server:<path>
